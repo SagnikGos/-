@@ -40,3 +40,10 @@
 .read-the-docs {
   color: #888;
 }
+
+@layer base {
+  @font-face {
+    font-family: 'Samarkan';
+    src: url('https://fonts.cdnfonts.com/css/samarkan');
+  }
+}
