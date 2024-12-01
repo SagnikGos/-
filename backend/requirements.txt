@@ -7,3 +7,4 @@ cookie-parser
 cloudinary
 socket.io
 nodemon
+cors
